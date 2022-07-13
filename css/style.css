@@ -1,0 +1,47 @@
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+.logo{
+    width: 30px;
+    margin-right: 12px;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  
+    .contacto{
+        text-decoration: none;
+    }
+    .img{
+        width: 100%;
+        height: 225px;
+    }
+      
+}
+.main{
+    margin-top: 35px;
+}
+.color-footer{
+    color: white;
+}
+.color-footer >a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+.float-end >a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+
+}
+.btn-sm{
+    background-color: rgb(48, 187, 66);
+}
